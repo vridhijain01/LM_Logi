@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2786" started-at="2019-06-20T05:41:15Z" finished-at="2019-06-20T05:41:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2786" started-at="2019-06-20T05:41:15Z" finished-at="2019-06-20T05:41:18Z">
+      <class name="com.javacodegeeks.testng.maven.Logistics">
+        <test-method status="PASS" signature="placeOrder()[pri:0, instance:com.javacodegeeks.testng.maven.Logistics@6a4f787b]" name="placeOrder" is-config="true" duration-ms="2630" started-at="2019-06-20T05:41:15Z" finished-at="2019-06-20T05:41:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrder -->
+        <test-method status="PASS" signature="assignOrder()[pri:0, instance:com.javacodegeeks.testng.maven.Logistics@6a4f787b]" name="assignOrder" duration-ms="54" started-at="2019-06-20T05:41:18Z" finished-at="2019-06-20T05:41:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assignOrder -->
+        <test-method status="PASS" signature="completeOrder()[pri:0, instance:com.javacodegeeks.testng.maven.Logistics@6a4f787b]" name="completeOrder" duration-ms="45" started-at="2019-06-20T05:41:18Z" finished-at="2019-06-20T05:41:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- completeOrder -->
+        <test-method status="PASS" signature="fetchOrder()[pri:0, instance:com.javacodegeeks.testng.maven.Logistics@6a4f787b]" name="fetchOrder" duration-ms="32" started-at="2019-06-20T05:41:18Z" finished-at="2019-06-20T05:41:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchOrder -->
+      </class> <!-- com.javacodegeeks.testng.maven.Logistics -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
